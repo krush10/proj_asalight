@@ -1,0 +1,189 @@
+body{
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+}
+
+.corpo_um{
+	background:url(../img/fundo_cardapio.jpg) center;
+	width:auto;
+	height:1204px;	
+}
+
+.corpo_um .corpo_um_margin{
+	width:980px;
+	height:1204px;
+	margin:0 auto;
+}
+
+.corpo_um .corpo_um_margin #img_corpo_um{
+	margin-left:20px;	
+}
+
+.corpo_um .corpo_um_margin #txt_corpo_um{
+	margin-top:-90px;
+	margin-left:710px;	
+}
+
+.corpo_um .corpo_um_margin #categoria{
+	position:absolute;
+	top:420px;
+	margin-left:15px;
+	*margin-left:15px;
+	font-family:"Source Sans Pro", Arial, Helvetica, sans-serif;
+	font-size:13px;	
+}
+
+.corpo_um .corpo_um_margin #categoria a{
+	text-decoration:none;
+	color:#000;	
+}
+
+.corpo_um .corpo_um_margin #categoria a:hover{
+	color:#ac4f64;	
+}
+
+.corpo_um .corpo_um_margin #conteudo{
+	margin-top:125px;
+	*position:absolute;
+	*top:290px;
+	margin-left:180px;
+	font-family:"Source Sans Pro", Arial, Helvetica, sans-serif;	
+	font-size:14px;
+	width:750px;
+}
+
+.corpo_um .corpo_um_margin #conteudo #programas{
+	margin-top:10px;
+	margin-left:-6px;	
+}
+
+.corpo_um .corpo_um_margin #conteudo #paginador{
+	margin-top:10px;	
+	margin-left:270px;
+}
+
+.corpo_um .corpo_um_margin #conteudo #paginador a{
+	font-family:"Source Sans Pro", Arial, Helvetica, sans-serif;
+	font-size:12px;
+	padding:4px;
+	color:#333;
+	text-decoration:none;
+}
+
+.corpo_um .corpo_um_margin #texto_obs{
+	font-family:"Source Sans Pro", Arial, Helvetica, sans-serif;
+	font-size:11px;	
+	margin-top:25px;
+	margin-left:8px;
+}
+
+.corpo_dois{
+	background:#026525;
+	width:auto;
+	height:257px;	
+}
+
+.corpo_dois .corpo_dois_margin{
+	margin:0 auto;
+	width:980px;
+	height:257px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_dicassaudaveis{
+	position:absolute;
+	top: 1443px;
+	top /*\**/:1446px\9;
+	*top:1425px;
+	margin-left:10px;
+	font-family:"Source Sans Pro", Arial, Helvetica, sans-serif;
+	font-size:13px;	
+	color:#FFFFFF;
+	width:300px;
+	height:auto;
+}
+
+:root .corpo_dois .corpo_dois_margin #area_dicassaudaveis{
+	top: 1445px\0/IE9;
+}
+
+.corpo_dois .corpo_dois_margin #area_dicassaudaveis p{
+	width:200px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_dicassaudaveis a{
+	font-size:11px;
+	color:#89ff07;
+	text-decoration:none;
+}
+
+.corpo_dois .corpo_dois_margin #area_dicassaudaveis #img_dicas{
+	margin-top:-130px;
+	margin-left:190px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_programa{
+	position:absolute;
+	top: 1444px;
+	*top:1427px;
+	margin-left:340px;
+	font-family:"Source Sans Pro", Arial, Helvetica, sans-serif;
+	font-size:13px;	
+	color:#FFFFFF;
+	width:280px;
+	height:auto;
+}
+
+:root .corpo_dois .corpo_dois_margin #area_programa{
+	top: 1450px\0/IE9;
+}
+
+.corpo_dois .corpo_dois_margin #area_programa p{
+	width:280px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_programa a{
+	font-size:11px;
+	color:#89ff07;
+	text-decoration:none;
+}
+
+.corpo_dois .corpo_dois_margin #area_programa #img_programa{
+	margin-top:-40px;
+	margin-left:145px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_consulta{
+	position:absolute;
+	top: 1460px;
+	top /*\**/:1446px\9;
+	*top:1425px;
+	margin-left:660px;
+	font-family:"Source Sans Pro", Arial, Helvetica, sans-serif;
+	font-size:13px;	
+	color:#FFFFFF;
+	width:280px;
+	height:auto;
+}
+
+:root .corpo_dois .corpo_dois_margin #area_consulta{
+	top: 1461px\0/IE9;	
+}
+
+.corpo_dois .corpo_dois_margin #area_consulta p{
+	width:200px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_consulta a{
+	font-size:11px;
+	color:#89ff07;
+	text-decoration:none;
+}
+
+.corpo_dois .corpo_dois_margin #area_consulta #img_consulta{
+	margin-top:-145px;
+	margin-left:190px;	
+}
+
+

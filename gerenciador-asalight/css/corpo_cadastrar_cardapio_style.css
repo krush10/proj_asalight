@@ -1,0 +1,72 @@
+body{
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+.corpo #conteudo_centro{
+    width: 750px;
+    height: 700px;
+    background: #F9F9F9;
+    margin-left: 220px;
+    border: 1px solid #EBEBEB;
+}
+
+.corpo #conteudo_centro #faixa_corpo{
+    padding: 18px;
+    margin-left: -18px;
+}
+
+.corpo #conteudo_centro #nome_categoria{
+    margin-left: 305px;
+    margin-top: -40px;
+    font-family: arial;
+    font-size: 14px;
+    color: #555555;
+}
+
+.corpo #conteudo_centro #msg{
+    margin-top: 30px;
+    margin-left: 9px;
+    font-family: arial;
+    font-size: 11px;
+}
+
+.corpo #conteudo_centro #form_{
+    font-family: arial;
+    font-size: 12px;
+    color: #333;
+    margin-top: 30px;
+    margin-left: 6px;
+}
+
+.corpo #conteudo_centro #img_loading{
+    margin-left: 640px;
+    margin-top: -20px;
+    display: none;
+}
+
+.caixa{
+    width: 300px;
+    height: 20px;
+    border: 1px solid #999;
+}
+
+.selecione{
+    width: 200px;
+    height: 20px;
+    border: 1px solid #999;
+}
+
+
+.caixa_area{
+    width: 500px;
+    height: 130px; 
+    border: 1px solid #888;
+}
+
+.btn_cadastro{
+    margin-top: 30px;
+    margin-left: 557px;
+}

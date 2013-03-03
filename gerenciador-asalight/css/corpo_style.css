@@ -1,0 +1,32 @@
+body{
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+.corpo{
+    width: 980px;
+    height: 800px;
+    margin: 0 auto;
+}
+
+.corpo #menu_lateral{
+    width: 200px;
+    height: 530px;
+    background: #9e4459;
+    position: absolute;
+    top: 170px;
+}
+
+.corpo #menu_lateral #table_menu{
+    margin-left: -1px;
+    border-collapse: collapse; 
+}
+
+.corpo #menu_lateral #table_menu a{
+    color: #FFF;
+    font-family: arial;
+    text-decoration: none;
+    font-size: 12px;
+}

@@ -1,0 +1,26 @@
+body{
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+.max-footer{
+    width: auto;
+    height: 200px;
+    background: #9e4459;
+}
+
+.max-footer .footer{
+    width: 980px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.max-footer .footer #txt_gerenciador{
+    padding: 15px;
+    margin-left: 735px;
+    font-family: arial;
+    color: #FFF;
+    font-size: 13px;
+}

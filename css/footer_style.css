@@ -1,0 +1,36 @@
+body{
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;	
+}
+
+.footer{
+	background:#8a3548;
+	height:120px;
+	width:auto;	
+}
+
+.footer .footer_margin{
+	margin:0 auto;
+	width:980px;
+	height:120px;	
+}
+
+.footer .footer_margin #contato{
+	font-family:"Source Sans Pro", Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#FFFFFF;	
+	padding:20px;
+	margin-left:-10px;
+}
+
+.footer .footer_margin #contato a{
+	color:#FFF;
+	text-decoration:none;	
+}
+
+.footer .footer_margin #logo_krush{
+	margin-left:803px;
+	margin-top:-62px;	
+}

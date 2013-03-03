@@ -1,0 +1,36 @@
+body{
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+.corpo #conteudo_centro{
+    width: 750px;
+    height: 700px;
+    background: #F9F9F9;
+    margin-left: 220px;
+    border: 1px solid #EBEBEB;
+}
+
+.corpo #conteudo_centro #faixa_corpo{
+    padding: 18px;
+    margin-left: -18px;
+}
+
+.corpo #conteudo_centro #grafico_vendas{
+    margin-left: 10px;
+    margin-top: 20px;
+    width:760px; 
+    height:250px;
+    background:url(../imagens/banner_intra.png);
+}
+
+.corpo #conteudo_centro #arrecadacao_mes{
+    margin-left: 10px;
+    margin-top: 20px;
+    width:730px; 
+    height:230px;
+    font-family: arial;
+    font-size: 14px;
+}

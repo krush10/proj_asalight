@@ -1,0 +1,92 @@
+body{
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+.corpo #conteudo_centro{
+    width: 750px;
+    height: 700px;
+    background: #F9F9F9;
+    margin-left: 220px;
+    border: 1px solid #EBEBEB;
+}
+
+.corpo #conteudo_centro #faixa_corpo{
+    padding: 18px;
+    margin-left: -18px;
+}
+
+.corpo #conteudo_centro #nome_categoria{
+    margin-left: 305px;
+    margin-top: -40px;
+    font-family: arial;
+    font-size: 14px;
+    color: #555555;
+}
+
+.corpo #conteudo_centro #msg{
+    margin-top: 30px;
+    margin-left: 9px;
+    font-family: arial;
+    font-size: 11px;
+}
+
+.corpo #conteudo_centro #form_{
+    font-family: arial;
+    font-size: 12px;
+    color: #333;
+    margin-top: 32px;
+    margin-left: 6px;
+}
+
+.caixa{
+    width: 300px;
+    height: 20px;
+    border: 1px solid #999;
+}
+
+.caixa_area{
+    width: 300px;
+    height: 50px; 
+    border: 1px solid #888;
+}
+
+.selecione{
+    width: 200px;
+    height: 20px;
+    border: 1px solid #999;
+}
+
+.btn_cadastro{
+    margin-top: 30px;
+}
+
+.corpo #conteudo_centro #img_etapa{
+    margin-left: 520px;
+    margin-top:-590px;
+}
+
+.corpo #conteudo_centro #periodos_cadastrados{
+    background: #FFF;
+    width: 230px;
+    height: 310px;
+    margin-left: 410px;
+    margin-top: 11px;
+    font-family: arial;
+    font-size: 11px;
+    color: #333;
+}
+
+.corpo #conteudo_centro #periodos_cadastrados table{
+    margin-left: 5px;
+}
+
+.corpo #conteudo_centro #periodos_cadastrados p{
+    padding: 5px;
+    margin-left: 3px;
+    font-family: arial;
+    font-size: 12px;
+    color: #333;
+}

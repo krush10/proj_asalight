@@ -1,0 +1,53 @@
+body{
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+.header{
+    width: 980px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+.header #logo{
+    margin-left: 400px;
+}
+
+.corpo{
+    width: 980px;
+    height: 400px;
+    margin: 0 auto;
+    border:1px solid #CCC;
+}
+
+.corpo #area_login{
+    padding: 130px;
+    margin-left: 193px;
+    color: #333;
+    font-size: 17px;
+    font-family: arial;
+}
+
+.caixa{
+    width: 220px;
+    height: 22px;
+    background: #CCC;
+    border: 1px solid #CCC;
+}
+
+.btn_logar{
+    margin-top: 10px;
+}
+
+.footer{
+    width: 980px;
+    height: 120px;
+    margin: 0 auto;
+}
+
+.footer #logo_krush{
+    margin-left: 880px;
+    margin-top: 10px;
+}

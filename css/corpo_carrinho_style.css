@@ -1,0 +1,187 @@
+body{
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+}
+
+.corpo_um{
+	width:auto;
+	min-height:764px;	
+}
+
+.corpo_um .corpo_um_margin{
+	width:980px;
+	min-height:764px;
+	margin:0 auto;
+}
+
+.corpo_um  #img_corpo_um{
+	background: url(../img/faixa_verde.png) center;
+	width:100%;
+	height:155px;
+}
+
+.corpo_um  #img_corpo_um #img_corpo_um_margin{
+	width:980px;
+	height:155px;
+	margin:0 auto;	
+}
+
+.corpo_um  #img_corpo_um #img_corpo_um_margin table{
+	margin-left:90px;	
+}
+
+.corpo_um .corpo_um_margin #conteudo{
+	margin-top:120px;
+	margin-left:70px;
+	font-family:"Source Sans Pro", Arial, Helvetica, sans-serif;	
+	font-size:14px;
+	width:750px;
+}
+
+.caixa_mensagem{
+	width:400px;
+	height:140px;
+	background:#CCCCCC;
+	border:1px solid #CCC;	
+}
+
+.btn_enviar{
+	margin-top:20px;
+	margin-left:2px;	
+}
+
+.corpo_um .corpo_um_margin #linha_meio{
+	margin-left:450px;
+	position:absolute;
+	top:480px;	
+}
+
+.corpo_um .corpo_um_margin #area_cadastro{
+	margin-left:470px;
+	font-family:"Source Sans Pro", Arial, Helvetica, sans-serif;
+	margin-top:-230px;	
+}
+
+
+.corpo_dois{
+	background:#026525;
+	width:auto;
+	height:257px;	
+}
+
+.corpo_dois .corpo_dois_margin{
+	margin:0 auto;
+	width:980px;
+	height:257px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_dpc{
+	margin-top:50px;
+	height:1px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_dicassaudaveis{
+	/*position:absolute;
+	top: 1073px;
+	top /*\**:1076px\9;
+	*top:1055px;*/
+	margin-top:45px;
+	margin-top /*\**/:47px\9;
+	*margin-top:-24px;
+	margin-left:10px;
+	font-family:"Source Sans Pro", Arial, Helvetica, sans-serif;
+	font-size:13px;	
+	color:#FFFFFF;
+	width:300px;
+	height:auto;
+}
+
+:root .corpo_dois .corpo_dois_margin #area_dicassaudaveis{
+	margin-top:47px\0/IE9;	
+}
+
+.corpo_dois .corpo_dois_margin #area_dicassaudaveis p{
+	width:200px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_dicassaudaveis a{
+	font-size:11px;
+	color:#89ff07;
+	text-decoration:none;
+}
+
+.corpo_dois .corpo_dois_margin #area_dicassaudaveis #img_dicas{
+	margin-top:-130px;
+	margin-left:190px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_programa{
+	/*position:absolute;
+	top: 1069px;
+	*top:1051px;*/
+	margin-top:-208px;
+	*margin-top:-228px;
+	margin-left:340px;
+	font-family:"Source Sans Pro", Arial, Helvetica, sans-serif;
+	font-size:13px;	
+	color:#FFFFFF;
+	width:280px;
+	height:auto;
+}
+
+/*:root .corpo_dois .corpo_dois_margin #area_programa{
+	top: 1077px\0/IE9;	
+}*/
+
+
+.corpo_dois .corpo_dois_margin #area_programa p{
+	width:280px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_programa a{
+	font-size:11px;
+	color:#89ff07;
+	text-decoration:none;
+}
+
+.corpo_dois .corpo_dois_margin #area_programa #img_programa{
+	margin-top:-40px;
+	margin-left:145px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_consulta{
+	/*position:absolute;
+	top: 1090px;
+	top /*\**:1076px\9;
+	*top:1055px;*/
+	margin-top:-193px;
+	margin-top /*\**/:-189px\9;
+	*margin-top:-217px;
+	margin-left:660px;
+	font-family:"Source Sans Pro", Arial, Helvetica, sans-serif;
+	font-size:13px;	
+	color:#FFFFFF;
+	width:280px;
+	height:auto;
+}
+
+:root .corpo_dois .corpo_dois_margin #area_consulta{
+	margin-top:-191px\0/IE9;	
+}
+
+.corpo_dois .corpo_dois_margin #area_consulta p{
+	width:200px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_consulta a{
+	font-size:11px;
+	color:#89ff07;
+	text-decoration:none;
+}
+
+.corpo_dois .corpo_dois_margin #area_consulta #img_consulta{
+	margin-top:-145px;
+	margin-left:190px;	
+}

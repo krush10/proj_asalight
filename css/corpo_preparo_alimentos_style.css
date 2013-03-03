@@ -1,0 +1,155 @@
+body{
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+}
+
+.corpo_um{
+	background:url(../img/fundo_preparo_alimentos.jpg) center;
+	width:auto;
+	height:1504px;	
+}
+
+.corpo_um .corpo_um_margin{
+	width:980px;
+	height:1364px;
+	margin:0 auto;
+}
+
+.corpo_um .corpo_um_margin #img_corpo_um{
+	margin-left:70px;	
+}
+
+.corpo_um .corpo_um_margin #txt_corpo_um{
+	margin-top:-90px;
+	margin-left:420px;	
+}
+
+.corpo_um .corpo_um_margin #conteudo{
+	margin-top:120px;
+	margin-left:70px;
+	font-family:"Source Sans Pro", Arial, Helvetica, sans-serif;	
+	font-size:14px;
+	width:750px;
+}
+
+.corpo_um .corpo_um_margin #conteudo #paginador{
+	margin-top:70px;	
+	margin-left:270px;
+}
+
+.corpo_um .corpo_um_margin #conteudo #paginador a{
+	font-family:"Source Sans Pro", Arial, Helvetica, sans-serif;
+	font-size:12px;
+	padding:4px;
+	color:#333;
+	text-decoration:none;
+}
+
+.corpo_dois{
+	background:#026525;
+	width:auto;
+	height:257px;	
+}
+
+.corpo_dois .corpo_dois_margin{
+	margin:0 auto;
+	width:980px;
+	height:257px;
+}
+
+.corpo_dois .corpo_dois_margin #area_dicassaudaveis{
+	position:absolute;
+	top: 1743px;
+	top /*\**/:1746px\9;
+	*top:1725px;
+	margin-left:10px;
+	font-family:"Source Sans Pro", Arial, Helvetica, sans-serif;
+	font-size:13px;	
+	color:#FFFFFF;
+	width:300px;
+	height:auto;
+}
+
+:root .corpo_dois .corpo_dois_margin #area_dicassaudaveis{
+	top: 1745px\0/IE9;	
+}
+
+.corpo_dois .corpo_dois_margin #area_dicassaudaveis p{
+	width:200px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_dicassaudaveis a{
+	font-size:11px;
+	color:#89ff07;
+	text-decoration:none;
+}
+
+.corpo_dois .corpo_dois_margin #area_dicassaudaveis #img_dicas{
+	margin-top:-130px;
+	margin-left:190px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_programa{
+	position:absolute;
+	top: 1744px;
+	*top:1727px;
+	margin-left:340px;
+	font-family:"Source Sans Pro", Arial, Helvetica, sans-serif;
+	font-size:13px;	
+	color:#FFFFFF;
+	width:280px;
+	height:auto;
+}
+
+:root .corpo_dois .corpo_dois_margin #area_programa{
+	top: 1748px\0/IE9;	
+}
+
+.corpo_dois .corpo_dois_margin #area_programa p{
+	width:280px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_programa a{
+	font-size:11px;
+	color:#89ff07;
+	text-decoration:none;
+}
+
+.corpo_dois .corpo_dois_margin #area_programa #img_programa{
+	margin-top:-40px;
+	margin-left:145px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_consulta{
+	position:absolute;
+	top: 1760px;
+	top /*\**/:1746px\9;
+	*top:1725px;
+	margin-left:660px;
+	font-family:"Source Sans Pro", Arial, Helvetica, sans-serif;
+	font-size:13px;	
+	color:#FFFFFF;
+	width:280px;
+	height:auto;
+}
+
+:root .corpo_dois .corpo_dois_margin #area_consulta{
+	top: 1761px\0/IE9;	
+}
+
+.corpo_dois .corpo_dois_margin #area_consulta p{
+	width:200px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_consulta a{
+	font-size:11px;
+	color:#89ff07;
+	text-decoration:none;
+}
+
+.corpo_dois .corpo_dois_margin #area_consulta #img_consulta{
+	margin-top:-145px;
+	margin-left:190px;	
+}

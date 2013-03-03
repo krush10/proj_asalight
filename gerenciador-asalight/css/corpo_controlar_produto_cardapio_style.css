@@ -1,0 +1,113 @@
+body{
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+.corpo #conteudo_centro{
+    width: 750px;
+    height: 700px;
+    background: #F9F9F9;
+    margin-left: 220px;
+    border: 1px solid #EBEBEB;
+}
+
+.corpo #conteudo_centro #faixa_corpo{
+    padding: 18px;
+    margin-left: -18px;
+}
+
+.corpo #conteudo_centro #nome_categoria{
+    margin-left: 305px;
+    margin-top: -40px;
+    font-family: arial;
+    font-size: 14px;
+    color: #555555;
+}
+
+.corpo #conteudo_centro #msg{
+    margin-top: 30px;
+    margin-left: 9px;
+    font-family: arial;
+    font-size: 11px;
+}
+
+.corpo #conteudo_centro #form_{
+    font-family: arial;
+    font-size: 12px;
+    color: #333;
+    margin-top: 30px;
+    margin-left: 6px;
+}
+
+.corpo #conteudo_centro #escolha_categoria{
+    font-family: arial;
+    font-size: 12px;
+    color: #333;
+    margin-top: 2px;
+    margin-left: 8px;
+}
+
+.corpo #conteudo_centro #conteudo{
+    margin-top: 5px;
+    width: 580px;
+    min-height: 310px;
+    background: #FFF;
+    margin-left: 10px;
+    font-family: arial;
+    font-size: 12px;
+    border: 1px solid #CCC;
+}
+
+.corpo #conteudo_centro #conteudo #paginador{
+     font-family: arial;
+     font-size: 13px;
+     margin-left: 210px;
+     position: absolute;
+     top: 640px;
+}
+
+.corpo #conteudo_centro #conteudo #paginador a{
+    color: #333;
+}
+
+.corpo #conteudo_centro #conteudo table{
+    padding: 10px;
+    margin-left: 0px;
+}
+
+.corpo #conteudo_centro #conteudo table a{
+    color: #111;
+    text-decoration: none;
+}
+
+.caixa{
+    width: 300px;
+    height: 20px;
+    border: 1px solid #999;
+}
+
+.caixa_area{
+    width: 500px;
+    height: 130px; 
+    border: 1px solid #888;
+}
+
+.selecione{
+    width: 200px;
+    height: 20px;
+    border: 1px solid #999;
+}
+
+.btn_cadastro{
+    margin-top: 30px;
+    margin-left: 468px;
+}
+
+.corpo #conteudo_centro #img_loading{
+    position: absolute;
+    top: 457px;
+    margin-left: 555px;
+    display: none;
+}

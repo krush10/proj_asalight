@@ -1,0 +1,178 @@
+body{
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+}
+
+.corpo_um{
+	background:url(../img/fundo_programa_alimentar.jpg) center;
+	width:auto;
+	height:1404px;	
+}
+
+.corpo_um .corpo_um_margin{
+	width:980px;
+	height:1404px;
+	margin:0 auto;
+}
+
+.corpo_um .corpo_um_margin #img_corpo_um{
+	margin-left:20px;	
+}
+
+.corpo_um .corpo_um_margin #txt_corpo_um{
+	margin-top:-90px;
+	margin-left:400px;	
+}
+
+.corpo_um .corpo_um_margin #conteudo{
+	margin-top:120px;
+	margin-left:70px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;	
+	font-size:14px;
+	width:855px;
+}
+
+.corpo_um .corpo_um_margin #conteudo #programas{
+	margin-top:36px;
+	margin-left:1px;	
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+
+.corpo_um .corpo_um_margin #conteudo #voltar{
+	margin-top:35px;
+	margin-left:650px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:11px;		
+}
+
+.corpo_um .corpo_um_margin #conteudo #voltar a{
+	text-decoration:none;
+	color:#000;
+}
+
+.corpo_um .corpo_um_margin #conteudo #paginador{
+	margin-top:0px;	
+	margin-left:330px;
+}
+
+.corpo_um .corpo_um_margin #conteudo #paginador a{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:12px;
+	padding:4px;
+	color:#333;
+	text-decoration:none;
+	/* border-radius: 16px; /* CSS 3 */
+	/*-o-border-radius: 16px; /* Opera */
+	/*-icab-border-radius: 16px; /* iCab */
+	/*-khtml-border-radius: 16px; /* Konqueror */
+	/*-moz-border-radius: 16px; /* Firefox */
+	/*-webkit-border-radius: 16px; /* Safari */
+}
+
+.corpo_dois{
+	background:#026525;
+	width:auto;
+	height:257px;	
+}
+
+.corpo_dois .corpo_dois_margin{
+	margin:0 auto;
+	width:980px;
+	height:257px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_dicassaudaveis{
+	position:absolute;
+	top: 1639px;
+	*top:1617px;
+	margin-left:10px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:13px;	
+	color:#FFFFFF;
+	width:300px;
+	height:auto;
+}
+
+:root .corpo_dois .corpo_dois_margin #area_dicassaudaveis{
+	top: 1650px\0/IE9;
+}
+
+.corpo_dois .corpo_dois_margin #area_dicassaudaveis p{
+	width:200px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_dicassaudaveis a{
+	font-size:11px;
+	color:#89ff07;
+	text-decoration:none;
+}
+
+.corpo_dois .corpo_dois_margin #area_dicassaudaveis #img_dicas{
+	margin-top:-130px;
+	margin-left:190px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_programa{
+	position:absolute;
+	top: 1639px;
+	*top:1617px;
+	margin-left:340px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:13px;	
+	color:#FFFFFF;
+	width:280px;
+	height:auto;
+}
+
+:root .corpo_dois .corpo_dois_margin #area_programa{
+	top: 1650px\0/IE9;
+}
+
+.corpo_dois .corpo_dois_margin #area_programa p{
+	width:280px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_programa a{
+	font-size:11px;
+	color:#89ff07;
+	text-decoration:none;
+}
+
+.corpo_dois .corpo_dois_margin #area_programa #img_programa{
+	margin-top:-40px;
+	margin-left:145px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_consulta{
+	position:absolute;
+	top: 1658px;
+	*top:1617px;
+	margin-left:660px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:13px;	
+	color:#FFFFFF;
+	width:280px;
+	height:auto;
+}
+
+:root .corpo_dois .corpo_dois_margin #area_consulta{
+	top: 1650px\0/IE9;	
+}
+
+.corpo_dois .corpo_dois_margin #area_consulta p{
+	width:200px;	
+}
+
+.corpo_dois .corpo_dois_margin #area_consulta a{
+	font-size:11px;
+	color:#89ff07;
+	text-decoration:none;
+}
+
+.corpo_dois .corpo_dois_margin #area_consulta #img_consulta{
+	margin-top:-145px;
+	margin-left:190px;	
+}
